@@ -19,5 +19,3 @@ dfs(graph, 1, visited)
 
 #142p.에 존재하던 기본 DFS 코드
 # 정답은 1 2 7 6 8 3 4 5
-
-asdaadad
